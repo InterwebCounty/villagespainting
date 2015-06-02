@@ -1,0 +1,7 @@
+{
+  "generator-ng-fullstack": {
+    "server": "Go",
+    "username": "interwebcounty",
+    "appName": "villagespainting"
+  }
+}
