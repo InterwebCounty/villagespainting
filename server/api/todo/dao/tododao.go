@@ -2,7 +2,7 @@ package tododao
 
 import (
 	"errors"
-	todo "github.com/interwebcounty/villagespainting/api/todo/model"
+	todo "github.com/interwebcounty/villagespainting/server/api/todo/model"
 	"github.com/interwebcounty/villagespainting/server/config"
 	"gopkg.in/mgo.v2/bson"
 	"time"
